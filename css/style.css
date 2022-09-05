@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color:chocolate;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+}
+.list-center {
+    text-align: center;
+    list-style-position: inside;
+}
+.text-center {
+    text-align: center;
+}
+.text-size {
+    font-size: 1em;
+}
+.font-family {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text-color {
+    color: rgb(129, 73, 28);
+}
+.products-list {
+    text-align: center;
+    list-style: none;
+}
+.image-size {
+    width: 300px;
+}
